@@ -52,7 +52,7 @@ section {text-align: center; margin-top: 10px;}
 p {margin: 15px}
 
 /* ===== MOBILE RESPONSIVE ===== */
-@media (max-width: 768px) {
+@media (max-width: 800px) {
 
   #pic {
     width: 95vw;
